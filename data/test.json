@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "att_1": "mcgolrick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9434814453125,
+          40.7246244107568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "att_1": "mccarren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95287990570068,
+          40.72007095580567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "att_1": "gilroy field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95257949829102,
+          40.721697225476575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "att_1": "artificial turf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94957542419434,
+          40.72062389195181
+        ]
+      }
+    }
+  ]
+}
