@@ -16,4 +16,5 @@ function popUp (feature, layer) {
 //get external geoJSON file
 var geojsonLayer = new L.GeoJSON.AJAX("./data/map.geojson",{onEachFeature:popUp});
 
+//add the geoJSON layer to the map
 geojsonLayer.addTo(map);
